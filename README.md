@@ -24,3 +24,4 @@ Data from Kaggle: https://www.kaggle.com/datasets/umitka/twitter-toxic-tweets
 | Фактически: 0  | 5556 (TN)      | 389 (FP)       |
 | Фактически: 1  | 88 (FN)        | 360 (TP)       |
 
+**Модель находим 80% всех нужных случаев, но половина тревог ложные.**
